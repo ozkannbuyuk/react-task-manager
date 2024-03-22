@@ -2,6 +2,10 @@
    React - Task Manager
 </h1>
 
+<h2>
+📷 Screenshots
+</h2>
+
 <p align="center">
   <img src="https://github.com/ozkannbuyuk/react-task-manager/assets/111967202/c70ff614-06fd-4681-8884-bed44bfc61b2" width="700" />
 </p>
